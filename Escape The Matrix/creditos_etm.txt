@@ -1,0 +1,10 @@
+_|____________________________________________________________|_
+ |                                                            |
+ |  O jogo Escape the Matrix foi desenvolvido em linguagem C, |
+ |  por Henrique Zolin, Thomas Tanabe e Rafael Tudela. Foi    |
+ |  criado como produto final de uma atividade de estudo      |
+ |  programada(AEP) do segundo Bimestre, do segundo Semestre  |
+ |  do curso de Engenharia de Software.                       |
+_|____________________________________________________________|_
+ |                                                            |
+                  Pressione ESC para sair

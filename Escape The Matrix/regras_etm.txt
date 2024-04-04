@@ -1,0 +1,26 @@
+_|___________________________________________________________________________|_
+ |                                                                           |
+ |                                COMO JOGAR                                 |
+ |                                                                           |
+ |  - Seu personagem e represendado pela letra 'X' e a saida e representada  |
+ |    por um espaco ' ' na primeira linha do labirinto.                      |
+ |                                                                           |
+ |  - Use as setas para se mover pelo labirinto                              | 
+ |                                                                           |
+ |  - Sua pontuacao e medida pelo tempo que levou para terminar              |                                                      
+ |    o labirinto, e a quantidade de movimentos utilizados                   |                                                 
+ |                                                                           |
+ |  - As frutas espalhadas pelos labirintos($) restauram 200 pontos          |
+ |    e 10 movimentos.                                                       | 
+ |                                                                           |
+ |  - Cada movimento utilizado voce perde pontos e movimentos de acordo com  |
+ |    cada uma das 3 dificuldades.                                           |      
+ |                                                                           |
+ |  - Voce perde se:                                                         |
+ |      - Suas jogadas acabarem;                                             |
+ |      - Sua pontuacao zerar;                                               | 
+ |                                                                           |
+ |                              Divirta-se !!!!                              |
+_|___________________________________________________________________________|_
+ |                                                                           |
+                            Pressione ESC para sair
